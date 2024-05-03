@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/undergrad-teaching
 venue: "University of Michigan, Ann Arbor, Math Department"
-date: 2023
+date: 2023-08-26
 location: "Ann Arbor, MI"
 ---
 
