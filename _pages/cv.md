@@ -16,6 +16,15 @@ Education
 
 Work experience
 ======
+* Fall 2023, Fall 2024: Graduate Student Instructor for Calculus 1 (MATH115)
+  * Primary instructor for classes of just under 20 students
+  * Implement student centered, small-group based learning in a flipped classroom setting. Created worksheets and quizzes to aid in student mastery of concepts. Proctored and graded course-wide exams.
+ 
+* Winter 2024: Graduate Student Instructor for Calculus 2 (MATH116)
+  * One of five primary instructors, each with around 20 students, all meeting in one large learning center for classes.
+  * Took turns planning and lecturing toward the whole 100 students. Facilitated flipped classroom group discussions each class within my own section.
+  * Took turns creating quizzes; graded each quiz and group problem sets of my own section.
+
 * Sept 2020 - Aug 2021: Undergraduate Research Assistant
   * Department of Nuclear Engineering, University of California, Berkeley and Lawrence Berkeley National Lab
   * Supervisor: Professor Bethany Goldblum, Dr. Thibault Laplace
@@ -28,7 +37,7 @@ Work experience
   
 Skills
 ======
-* Programming: Python, Matlab, C++
+* Programming: Python, Matlab, C++, parallel computing (MPI, OpenMP, Cuda)
 * Languages: English, Mandarin, German
 
 Publications
