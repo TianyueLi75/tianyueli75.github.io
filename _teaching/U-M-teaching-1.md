@@ -10,3 +10,4 @@ location: "Ann Arbor, MI"
 
 * Fall 2023: Math 115 (Calculus 1) Primary instructor, individual section
 * Winter 2024: Math 116 (Calculus 2) Primary instructor, group section
+* Fall 2024: Math 115 Primary instructor, individual section
