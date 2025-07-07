@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tianyue Li"
   avatar           : "MPHOTO-MICDEhdsSep23_024.jpg"
-  bio              : "U-M AIM PhD student"
+  bio              : "U-M AIM PhD Candidate"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : #0009-0008-3267-8736
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
