@@ -1,0 +1,13 @@
+---
+title: "A scalable boundary integral method for simulating particulate flows through complex periodic geometries"
+collection: talks
+type: "talks"
+permalink: /talks/2025-11-25
+venue: "APS Division of Fluids 78th Annual Meeting"
+date: 2025-11-25
+location: "Houston, TX"
+---
+
+Understanding low Reynolds number flows and constituent particle dynamics in confined, periodic geometries is fundamental to many biophysical applications. While Boundary Integral Equation (BIE) methods are powerful for Stokes flow, they typically rely on periodic Green's functions, which can be restrictive for complex geometries and arbitrary periodic flow conditions.
+
+We present a novel BIE framework for periodic particulate Stokes flow through pipes with circular cross-sections. Our key innovation lies in a novel representation for the periodic copies, which inherently accommodates arbitrary periodic velocity and pressure discrepancies. This approach, combined with adaptive discretizations and integration with fast algorithms, results in a computationally efficient and highly versatile framework. We showcase the capabilities of this method through its application to challenging problems, including the simulation of porous media flow at scale and the optimization of micro-swimmer locomotion in confined environments.
