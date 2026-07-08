@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* Summer 2026: Summer Research Intern
+  * Center for Computational Mathematics, Flatiron Institute, Simons Foundation
+  * Create scalable surface integral equation solver for low-Re flow simulation in complex geometry that can be easily interfaced with existing fast libraries. Profile the solver's accuracy and performance and demonstrate its scalability through large scale examples. 
+
 * Fall 2023, Fall 2024: Graduate Student Instructor for Calculus 1 (MATH115); Witner 2025: GSI for Calculus 2 (MATH116)
   * Primary instructor for classes of just under 20 students
   * Implement student centered, small-group based learning in a flipped classroom setting. Created worksheets and quizzes to aid in student mastery of concepts. Proctored and graded course-wide exams.
